@@ -3,3 +3,5 @@ cards:
     answer: "क्या बारिश हो रही है?"
   - question: "Fountain"
     answer: "फव्वारा"
+  - question: "Sunday"
+    answer: "रविवार"
