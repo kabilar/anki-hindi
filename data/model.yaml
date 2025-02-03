@@ -1,0 +1,10 @@
+model:
+  id: 1895232466
+  name: "Basic Model"
+  fields:
+    - "Question"
+    - "Answer"
+  template:
+    name: "Card 1"
+    qfmt: "<div style='font-size: 30px;'>{{Question}}</div>"
+    afmt: "<div style='font-size: 30px;'>{{FrontSide}}</div><hr id='answer'><div style='font-size: 30px;'>{{Answer}}</div>"
